@@ -1,7 +1,7 @@
-# input ("What is your dog's name?")
+# input ("What is your system name?")
 
-dog_name = input ("What is your dog's name?")
+dog_name = input ("What is your system name? ")
 
-# input ("What is your dog's age?")
+# input ("What is your system version?")
 
-dog_age = input ("What is your dog's age?")
+dog_age = input ("What is your system version? ")
