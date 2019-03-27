@@ -1,6 +1,6 @@
 
 import random
-customers = ['Luke', 'Leia', 'Darth', 'C3PO', 'R2D2', 'Lando', 'Han', 'Chewy', 'Wavea' ]
+customers = ['Luke', 'Leia', 'Darth', 'C3PO', 'R2D2', 'Lando', 'Han', 'Chewy', 'Tanoe' ]
 winner = random.choice(customers)
 flavor = 'vanilla'
 print('Congratulations, ' + winner + ' you have won an ice cream sundae from the Creamery!')
