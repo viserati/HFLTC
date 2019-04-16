@@ -11,4 +11,4 @@ order = flavor + ' sundae '
 if(wants_cherry == 'yes'):
     order = order + ' with a cherry on top '
 
-print('One ' + order + 'for ' + winner + ' coming up!!!')
+print('One ' + order + 'for ' + winner + ' coming up !')
